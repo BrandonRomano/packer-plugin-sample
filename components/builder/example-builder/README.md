@@ -60,7 +60,7 @@ if (-5 < virusBlacklistPersonal(scroll_plagiarism_design, bankFlash,
 
 Canentem ubi sulphura tum dimittere talia, at si caerula. Tantum iam summis sub.
 
-```
+```c
 impactPlug = 4 - backup + web * systemGnuSession;
 if (soap) {
     wepDigitizeNetworking.officeBittorrentInstall.public(yottabyte, file);
